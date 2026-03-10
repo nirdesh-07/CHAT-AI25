@@ -1,4 +1,5 @@
-#PROPER WORKFLOW
+# PROPER WORKFLOW
+
 First-AI-Project/
 ├── data/               # Instructions or sample data used for the "zero" start
 ├── notebooks/          # Jupyter notebooks with step-by-step logic
